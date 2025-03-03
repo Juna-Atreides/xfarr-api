@@ -4,7 +4,6 @@
   "description": "Manuk Akal",
   "main": "index.js",
   "scripts": {
-    "preinstall": "npm install -g deobfuscator",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +12,7 @@
     "axios": "^0.27.2",
     "bing-scraper": "^1.4.11",
     "cheerio": "^1.0.0-rc.10",
+    "deobfuscator": "^2.4.5"
     "javascript-obfuscator": "^4.0.0",
     "request": "^2.88.2"
   },
