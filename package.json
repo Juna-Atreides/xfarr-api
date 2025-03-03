@@ -12,8 +12,6 @@
     "axios": "^0.27.2",
     "bing-scraper": "^1.4.11",
     "cheerio": "^1.0.0-rc.10",
-    "deobfuscator": "^2.4.5"
-    "javascript-obfuscator": "^4.0.0",
     "request": "^2.88.2"
   },
   "keywords": ["xfarr-api","scraper","xfar","botwhatsapp"],
